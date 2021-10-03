@@ -1,0 +1,20 @@
+{
+  "Weather": [
+{"cap_id":1,
+  "Temperature":295.37,
+  "Pressure":1015,
+  "humidity":77,
+  "Visibility":10000,
+  "Wind Speed":5.85,
+  "Description":"Clear Sky"
+},
+{"cap_id":2,
+  "Temperature":301.37,
+  "Pressure":1007,
+  "humidity":72,
+  "Visibility":10000,
+  "Wind Speed":2.96,
+  "Description":"broken clouds"
+}
+  ]
+}
