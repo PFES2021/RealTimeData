@@ -1,0 +1,30 @@
+{
+  "Traffic": [
+{"cap_id":1,
+  "Segment_Road":2021014,
+  "Road_Name":" Forsythe Rd",
+  "Traffic_Speed":42,
+  "Traffic_Volume":183,
+  "Occupancy":8,
+  "Lighting_Conditions":"Clear",
+  "Incidents":2
+},
+{"cap_id":2,
+  "Segment_Road":190012,
+  "Road_Name":"Washington St",
+  "Traffic_Speed":39,
+  "Traffic_Volume":173,
+  "Occupancy":8,
+  "Lighting_Conditions":"Clear",
+  "Incidents":1} ,
+  
+  {"cap_id":3,
+  "Segment_Road":1000140,
+  "Road_Name":"Clairmont Way",
+  "Traffic_Speed":43,
+  "Traffic_Volume":32,
+  "Occupancy":1,
+  "Lighting_Conditions":"Dark",
+  "Incidents":0}
+  ]
+}
