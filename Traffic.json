@@ -6,6 +6,7 @@
   "Traffic_Speed":42,
   "Traffic_Volume":183,
   "Occupancy":8,
+ "Emissions":18 ,
   "Lighting_Conditions":"Clear",
   "Incidents":2
 },
@@ -15,6 +16,7 @@
   "Traffic_Speed":39,
   "Traffic_Volume":173,
   "Occupancy":8,
+  "Emissions":41,
   "Lighting_Conditions":"Clear",
   "Incidents":1} ,
   
@@ -24,6 +26,7 @@
   "Traffic_Speed":43,
   "Traffic_Volume":32,
   "Occupancy":1,
+   "Emissions":25 ,
   "Lighting_Conditions":"Dark",
   "Incidents":0}
   ]
