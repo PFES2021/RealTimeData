@@ -28,6 +28,16 @@
   "Occupancy":1,
    "Emissions":29 ,
   "Lighting_Conditions":"Dark",
-  "Incidents":0}
+  "Incidents":0},
+    
+    {"cap_id":4,
+  "Segment_Road":1014020,
+  "Road_Name":"Clairmont Way",
+  "Traffic_Speed":136,
+  "Traffic_Volume":160,
+  "Occupancy":13,
+   "Emissions":37 ,
+  "Lighting_Conditions":"Dark",
+  "Incidents":1}
   ]
 }
