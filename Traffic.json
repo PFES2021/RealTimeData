@@ -5,11 +5,11 @@
   "Segment_Road":2021014,
   "Road_Name":" Forsythe Rd",
   "Traffic_Speed":70,
-  "Traffic_Volume":250,
+  "Traffic_Volume":2500,
   "Occupancy":10,
  "Emissions":52 ,
   "Lighting_Conditions":"Clear",
-  "Incidents":4
+  "Incidents":10
 },
 {"cap_id":2,
   "Segment_Road":190012,
