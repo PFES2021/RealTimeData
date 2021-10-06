@@ -1,14 +1,15 @@
+
 {
   "Traffic": [
 {"cap_id":1,
   "Segment_Road":2021014,
   "Road_Name":" Forsythe Rd",
-  "Traffic_Speed":58,
-  "Traffic_Volume":201,
+  "Traffic_Speed":70,
+  "Traffic_Volume":250,
   "Occupancy":10,
  "Emissions":52 ,
   "Lighting_Conditions":"Clear",
-  "Incidents":3
+  "Incidents":4
 },
 {"cap_id":2,
   "Segment_Road":190012,
@@ -29,15 +30,15 @@
    "Emissions":29 ,
   "Lighting_Conditions":"Dark",
   "Incidents":3},
-
+    
     {"cap_id":4,
   "Segment_Road":1014020,
   "Road_Name":"West 34th Street",
-  "Traffic_Speed":136,
-  "Traffic_Volume":160,
+  "Traffic_Speed":140,
+  "Traffic_Volume":190,
   "Occupancy":13,
    "Emissions":37 ,
   "Lighting_Conditions":"Dark",
-  "Incidents":1}
+  "Incidents":2}
   ]
 }
