@@ -34,7 +34,7 @@
     {"cap_id":4,
   "Segment_Road":1014020,
   "Road_Name":"West 34th Street",
-  "Traffic_Speed":85,
+  "Traffic_Speed":75,
   "Traffic_Volume":100,
   "Occupancy":21,
    "Emissions":40 ,
